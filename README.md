@@ -3,11 +3,17 @@ mldtl
 Machine Learning - Decision Tree Learning
 
 Originated by Dave Tian (daveti)
+
 on Jan 28, 2013
+
 Emails:
+
 dave.jing.tian@gmail.com
+
 daveti@cs.uoregon.edu
+
 Blog:
+
 http://daveti.blog.com
 
 NOTE:
